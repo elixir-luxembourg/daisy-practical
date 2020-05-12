@@ -24,7 +24,18 @@ Record your research **project** as per example scenario. Pay attention to the f
   * Document that the ethics approval for your project is covered by a parent research programme.
   * You have a draft data management plan for your project, generated in the earlier session. You can upload your DMP as a project document.
 
-## Exercise 2: Record dataset
+## Exercise 2: Link project to its parent
+
+There already exists a project definition in DAISY describing a research programme that encompasses several activities including your project. In this exercise, you're asked to:
+ 
+  * Search for the (parent) project record in DAISY for this research programme (HINT: it is categorised as an "epidemiological study", has a "CNER approval" and runs until 2022). 
+      * Make a note of the parent project's name.
+      * Make a note of the other sub-project under the parent (you will need this info in Exercise 4).
+  * Locate your own project, the one you created in Exercise 1.
+  * Update your own project so that there is a structural link between your project and the parent/umbrella project.
+
+
+## Exercise 3: Record dataset
 
 Record the samples and the data generated from those samples by creating a **dataset** within your newly created project. Pay attention to the following:
 
@@ -34,14 +45,16 @@ Record the samples and the data generated from those samples by creating a **dat
       * Record what is received from collaborator and also what data is generated. 
       * Record the fact that data subjects are (healthy) controls.
       * Record a storage duration for the data, what would be a reasonable duration?  
-      * Record the user restrictions on data.    
+      * Record the user restrictions on data. 
+  * Record the GDPR legal basis for your processing of data.     
   * Record where you're storing the master and working copies of data. 
-  * Record the access control policy for those storage locations.
 
-## Exercise 3: Update project
 
-There already exists a project definition in DAISY describing the research programme that encompasses several activities including your project, as well as others. In this exercise, you're asked to:
- 
-  * Search for the project record in DAISY that describes to the research programme (HINT: it is categorised as an "epidemiological study", has a "CNER approval" and runs until 2022). Make a note of the pranet project's name.
-  * Update your project, the one created in Exercise 1, so that there is a structural link between your project and the parent/umbrella project.
+## Exercise 4: Record data access in and across projects
 
+Record the data access policy you follow in your project. To do so:
+  * Locate your dataset, the one you created in Exercise 3.
+  * Document access policy for your dataset. Which categories of users have access to which locations within your project?
+  * Assume you shared your data with other project(s) under the same research programme.  Document this fact.
+  
+  
